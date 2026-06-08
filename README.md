@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mikias 👋
 
-<!--
-**MikiasEyayaw/MikiasEyayaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer specializing in building scalable, secure, and high-performance applications across web and mobile platforms.
 
-Here are some ideas to get you started:
+## 🚀 Technical Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- React
+- Next.js
+- Vue.js
+- TypeScript
+- JavaScript
+
+### Backend
+- Node.js
+- Laravel
+- Spring Boot
+- Express
+- REST APIs
+- MongoDB
+- MySQL
+
+### Mobile Development
+- Cross-platform mobile development
+
+### Tools & Practices
+- Git & GitHub
+- Clean Architecture
+- Deployment
+
+## 🌐 Portfolio
+
+https://mikias-eyayaw.vercel.app
